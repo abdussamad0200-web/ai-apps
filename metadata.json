@@ -1,0 +1,6 @@
+{
+  "name": "AI Nexus",
+  "description": "An all-in-one AI-powered dashboard featuring Telegram channels control, AI Translate, Social Metadata generation, AI Song Maker, and AI Prompt & Image generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
